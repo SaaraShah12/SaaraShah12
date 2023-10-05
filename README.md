@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **frontend, Javascript**
 
-- 📫 How to reach me **saaranasir12@gmail.com**
+- 📫 How to reach me **saara.nasir12@gmail.com**
 
 - ⚡ Fun fact **problem Solving skills**
 
